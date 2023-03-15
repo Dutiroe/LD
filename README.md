@@ -1,0 +1,2 @@
+# LD
+Micro Computer Engineer, 
